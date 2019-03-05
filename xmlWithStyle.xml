@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lab2.css"?>
+<furniture>
+  <heading>Unique Furniture</heading>
+  <chair>
+    <name>Chair</name>
+    <size>Size: Small</size>
+    <wood>Wood: Pine</wood>
+    <price>Price: 1000</price>
+  </chair>
+  <bed>
+    <name>Bed</name>
+    <size>Size: Medium</size>
+    <wood>Wood: HardWood</wood>
+    <price>Price: 10000</price>
+  </bed>
+  <dining_table>
+    <name>Dining Table</name>
+    <size>Size: Medium</size>
+    <wood>Wood: ply</wood>
+    <price>Price: 8000</price>
+  </dining_table>
+  <submit>Order</submit>
+</furniture>

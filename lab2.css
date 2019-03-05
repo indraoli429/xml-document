@@ -1,0 +1,43 @@
+heading{
+  display: block;
+  color: blue;
+  font-size: 100px;
+  text-align: center;
+  text-decoration: underline red;
+}
+chair {
+    display: inline-block;
+    text-align: center;
+    color: Green;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 150px;
+}
+bed {
+    display: inline-block;
+    text-align: center;
+    color: Green;
+      padding-right: 100px;
+}
+dining_table {
+    display: inline-block;
+    text-align: center;
+    color: Green;
+}
+name{
+  font-size: 60px;
+  color: red;
+}
+size, wood,price {
+  display: block;
+  font-size: 30px;
+  color: gray;
+}
+submit{
+  display: block;
+  padding-top: 100px;
+  text-align: center;
+  font-size: 25px;
+  text-shadow: 30px blue;
+  color: red;
+}
